@@ -1,4 +1,4 @@
-# AI Powered Chatbots Without Programming
+# AI Powered Chatbot using Imb Watson
 
 # Problem Statement  
 Building AI-Powered Chatbots Without Programming using Imb Watson.
